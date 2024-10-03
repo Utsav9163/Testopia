@@ -29,9 +29,9 @@ The website is filled with dummy text where needed.
 ## 🚀 Setup/Installation Requirements
 
 To view the website, 
-* click [Testopia]()
+* click [Testopia](https://github.com/Utsav9163/Testopia.git)
 or 
-* copy the link () paste it to your browser and load it.  
+* copy the link (https://github.com/Utsav9163/Testopia.git) paste it to your browser and load it.  
 
 ## 🛠 Built With
 
