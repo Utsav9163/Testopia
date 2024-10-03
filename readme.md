@@ -1,7 +1,7 @@
 
 # Testopia
 
-A landing page template for a restaurant. It employs the use of HTML, CSS and Javascript to build it
+A landing page template for a restaurant. It employs the use of HTML, CSS and Javascript to build it !
 
 
 # About this project 🚀
