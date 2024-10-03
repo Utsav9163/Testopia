@@ -4,7 +4,7 @@
 A landing page template for a restaurant. It employs the use of HTML, CSS and Javascript to build it !
 
 
-# About this project 
+# About this project 🚀
 This is a sample project of creating a Restaurant website that is for a restaurant to deliver its services via online website.
 
 # How it looks 📷
